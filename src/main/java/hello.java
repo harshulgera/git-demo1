@@ -7,4 +7,7 @@ class Hello
   
   public Hello(){}
   
+  public void subtract(int a, int b)
+  {}
+
 }
