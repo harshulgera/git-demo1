@@ -7,4 +7,9 @@ class Hello
   
   public Hello(){}
   
+  public void add(int a , int b)
+  {
+  }
+  
+  
 }
